@@ -1,4 +1,4 @@
-# Transkribering
+# Transcriber
 Transcribing with the Whisper Medium Model
 
 Uses Python 3.12
